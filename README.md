@@ -1,7 +1,7 @@
 # Drug Prediction app
 <p>Created an webapp using streamlit and connected with the django rest framework to compute on the user input and then fetch the output to frontend</p>
 
-####Installation Process
+<h3>Installation Process</h3>
 clone this repo
 
 then run
