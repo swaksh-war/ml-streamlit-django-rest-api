@@ -1,0 +1,9 @@
+django
+requests
+djangorestframework
+numpy
+joblib
+scikit-learn
+numpy
+pandas
+streamlit
