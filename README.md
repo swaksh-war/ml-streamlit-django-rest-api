@@ -6,7 +6,7 @@ clone this repo
 
 then run
 ```
-pip install -r reuirements.txt
+pip install -r requirements.txt
 ```
 
 then go to the <mark>webapp.py</mark> directory and run
